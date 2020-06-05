@@ -1,0 +1,10 @@
+For the first coding question I completed all portions of the assignment. One challenge was implementing dynamic programming because it is not something that
+I have implemented before. For resources, I read the textbook and revisited the class lectures in order to understand the concept of dynamic programming. Initially I tried storing the longest sequence in a string, but I noticed it was saving it in reverse, so I decided to use a vector in order to store the sequence, and I was
+able to obtain the length of the sequence by taking the size of the vector. The biggest challenge was implementing dynamic programming, and learning about how it
+was applicable to the question.
+
+For the second coding question I had a lot of trouble understanding what the question was asking, and how the optimal multiplication was calculated. In order to complete the question I referenced the PDF that was uploaded in Course Materials under lecture 23, which is called "Chain Matrix Multiplication Reference". The PDF contained pseudocode which allowed me to better understand how to travel down the matrix diagonally, and how to calculate the most optimal multiplication between all the matrices. I also referenced pages 480-482 in order to learn more about matrix multiplication. The textbook had some code for reference, and also explained the concept of matrix multiplication. Upon approaching the question, it was overwhelming but referencing the PDF file cleared up the concepts. I also referenced the youtube videos that I have linked below in order to further understand matrix multiplication.
+  https://www.youtube.com/watch?v=prx1psByp7U&t=514s
+  https://www.youtube.com/watch?v=OwUSi2sOHg0
+
+Another thing I struggled with for both questions was formatting the files in a way that's clean and easy to understand. Upon coding, I had all the functionality of the assignments in one large function, but after finishing coding, I broke the function up into smaller ones by thinking about each step I took to complete the question. This allowed for more readability in my code.
